@@ -1,0 +1,18 @@
+[
+    {
+      "title": "First Project",
+      "imageSrc": "projects/Project1.png",
+      "description": "This was my first ever project, where i was tasked to create a simple Website for a Ramen Shop built using HTML, CSS, and JavaScript.",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://github.com/MICH222Pog/FirstProject",
+      "source": "https://github.com/MICH222Pog/FirstProject"
+    },
+    {
+      "title": "Second Project",
+      "imageSrc": "projects/Project2.png",
+      "description": "This project tasked me with developing an e-commerce web application to handle makeup product transactions.",
+      "skills": ["C#", "ASP.NET", "SQL"],
+      "demo": "https://www.github.com",
+      "source": "https://www.github.com"
+    }
+  ]
