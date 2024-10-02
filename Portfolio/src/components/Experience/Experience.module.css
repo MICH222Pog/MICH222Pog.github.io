@@ -75,13 +75,14 @@
     align-items: center;
     gap: 17px;
     background: #19376d;
-    background: linear-gradient(90deg, rgba(25, 55, 109, 0) 0%,  #132a53 100%);
+    background: linear-gradient(90deg, #132a53 0%, rgba(25, 55, 109, 0) 100%); 
     border-radius: 10px;
     padding: 24px;
 }
 
 .historyItem img{
     width: 100px;
+    filter: saturate(1.5) brightness(1.2);
 }
 
 .historyItemDetail{
