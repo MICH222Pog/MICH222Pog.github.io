@@ -90,7 +90,7 @@
 
 .historyItemDetail h3{
     font-size: 30px;
-    font-weight: 500
+    font-weight: 500;
 }
 
 .historyItemDetail p{
@@ -121,5 +121,13 @@
     .history{
         width: 100%;
         gap: 9px;
+    }
+
+    .historyItemDetail h3{
+        font-size: 25px;
+    }
+
+    .historyItemDetail ul{
+        font-size: 20px;
     }
 }
